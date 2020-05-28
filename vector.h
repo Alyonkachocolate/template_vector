@@ -3,7 +3,6 @@
 
 #include <iostream>
 
-//реализация без учёта capacity
 template <class T> class vector {
 private:
   T *data_;
